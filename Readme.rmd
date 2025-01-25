@@ -2,7 +2,8 @@ Installer Jenkins.
 
 1)  \-
 
-https://github.com/MitarReda/TP5-DevOps/blob/main/ReadmeFile/media/image1.png
+<img src="https://github.com/MitarReda/TP5-DevOps/blob/main/ReadmeFile/media/image1.png"></img>
+
 
 ![](ReadmeFile/media/image2.png){width="6.3in"
 height="3.8125in"}
