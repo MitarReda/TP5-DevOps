@@ -2,24 +2,24 @@ Installer Jenkins.
 
 1)  \-
 
-![](vertopal_9995cd2cf3c84ff8ae5fd9179c7f8f00/media/image1.png){width="6.3in"
+![](ReadmeFile/media/image1.png){width="6.3in"
 height="2.897222222222222in"}
 
-![](vertopal_9995cd2cf3c84ff8ae5fd9179c7f8f00/media/image2.png){width="6.3in"
+![](ReadmeFile/media/image2.png){width="6.3in"
 height="3.8125in"}
 
-![](vertopal_9995cd2cf3c84ff8ae5fd9179c7f8f00/media/image3.png){width="5.14211176727909in"
+![](ReadmeFile/media/image3.png){width="5.14211176727909in"
 height="4.000346675415573in"}
 
-![](vertopal_9995cd2cf3c84ff8ae5fd9179c7f8f00/media/image4.png){width="6.3in"
+![](ReadmeFile/media/image4.png){width="6.3in"
 height="4.586111111111111in"}
 
-![](vertopal_9995cd2cf3c84ff8ae5fd9179c7f8f00/media/image5.png){width="6.3in"
+![](ReadmeFile/media/image5.png){width="6.3in"
 height="2.501388888888889in"}
 
 2)  \-
 
-![](vertopal_9995cd2cf3c84ff8ae5fd9179c7f8f00/media/image6.png){width="6.3in"
+![](ReadmeFile/media/image6.png){width="6.3in"
 height="3.4458333333333333in"}
 
 3)  
