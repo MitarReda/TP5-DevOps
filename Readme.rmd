@@ -2,8 +2,7 @@ Installer Jenkins.
 
 1)  \-
 
-![](ReadmeFile/media/image1.png){width="6.3in"
-height="2.897222222222222in"}
+https://github.com/MitarReda/TP5-DevOps/blob/main/ReadmeFile/media/image1.png
 
 ![](ReadmeFile/media/image2.png){width="6.3in"
 height="3.8125in"}
