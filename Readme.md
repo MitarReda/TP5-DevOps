@@ -1,6 +1,7 @@
-Installer Jenkins.
+Partie 1: CI
 
-1)  \-
+
+1)  Installer Jenkins.
 
 <img src="ReadmeFile/media/image1.png"></img>
 
@@ -50,3 +51,6 @@ Installer Jenkins.
 ![](ReadmeFile/media/image18.png)
 
 ![](ReadmeFile/media/image19.png)
+
+Partie 2: CI/CD (continuous integration/continuous deployment)
+
